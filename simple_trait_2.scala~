@@ -1,0 +1,8 @@
+trait Nice {
+  def greet() = println("Howdily doodily." )
+}
+
+class Person(val name:String) extend with Nice
+
+val flanders = new Person("Ned")
+flanders.greet
