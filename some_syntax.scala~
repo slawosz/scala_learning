@@ -1,6 +1,0 @@
-class SomeSyntax {
-  def someMethod = println("some method from some syntax")
-}
-
-class SomeMoreSyntax {
-  def otherMethod = 

@@ -1,7 +1,0 @@
-class Inspection {
-  def inspect: Unit = {
-    return 1
-  }
-}
-
-println((new Inspection).inspect.class)

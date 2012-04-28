@@ -1,9 +1,0 @@
-// from: http://joelabrahamsson.com/entry/learning-scala-type-hierarchy-and-object-equality
-
-class Inspection {
-  def inspect: Unit = {
-    return "aaa"
-  }
-}
-
-println((new Inspection).inspect)
